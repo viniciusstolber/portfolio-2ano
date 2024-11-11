@@ -6,6 +6,10 @@
     --cor-destaque: #34c42c;
 }
 
+.insta{
+    width: 20px;
+}
+
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
